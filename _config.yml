@@ -1,22 +1,20 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm Saeedeh Moghimi
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Saeedeh Moghimi's Weblog, you can call me Hedeesa:)
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://saeedehmoghimi.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: Saeedeh Moghimi # add your name
+author-img: Saeedeh.jpg # add your photo
+about-author: I am DevOps Engineer. Currently, Working in Cafebazaar. This is my weblog to share some of my documents with you. Feel free to contact me, You can find me by the name of Hedeesa anywhere:) # add description
+social-twitter: hedeesaa # add your Twitter handle
+social-instagram: hedeesaa # add your Instagram handle
+social-github: hedeesaa # add your Github handle
+social-linkedin: SaeedehMoghimi # add your Linkedin handle
+social-email: moghimi.saeedeh@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
